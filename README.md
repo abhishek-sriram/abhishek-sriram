@@ -26,7 +26,7 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 
 - 🤝 **I’m open to:** *AI Research, Deep Learning, and Data Science opportunities in innovative environments.*
 
-- ⚡ **Fun fact:** *I'm a tea ☕ enthusiast!*
+- ⚡ **Fun fact:** *I'm a coffee ☕ lover!*
 
 ### Projects
 
