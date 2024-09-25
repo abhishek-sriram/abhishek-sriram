@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="mailto:as4484@srmist.edu.in" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-sriram-050483250/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="justify">
@@ -19,7 +20,7 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 <img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="500" height="320" />
 
 - 🔭 **I’m currently working on:** *AI-based Real Estate Valuation Tools and EV Market Segmentation using Unsupervised ML.*
-
+  
 - 🌱 **I’m currently learning about:** *Advanced AI architectures, such as GNNs and Reinforcement Learning for multi-agent systems.*
 
 - 👯 **I’m looking to collaborate on:** *AI projects focusing on real-world problem solving and business applications.*
@@ -28,21 +29,45 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 
 - ⚡ **Fun fact:** *I'm a coffee ☕ lover!*
 
-### Projects
+---
+
+### 🔧 Skills & Tools
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/> </a>
+  <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache Spark" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 🛠️ Notable Projects
 
 - **[Personalized Online Course Recommender System](https://github.com/abhishek-sriram/Personalized-Online-Course-Recommender-System)**  
-  Built a course recommendation engine using Python, Scikit-Learn, and Scikit-Surprise, leveraging clustering and hybrid recommendation techniques. Improved user engagement by 40%.
+  Developed a personalized recommendation engine using Python, Scikit-Learn, and Scikit-Surprise, increasing user engagement by 40%.
 
 - **[SpaceX Falcon9 Landing Prediction](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction)**  
-  Developed machine learning models to predict the success of Falcon 9 rocket landings with 91.11% accuracy. Used Python, Pandas, and SpaceX API.
+  Built machine learning models to predict Falcon 9 landing success rates with an accuracy of 91.11% using Python, Pandas, and the SpaceX API.
 
-### Skills
-- **Languages:** Python, SQL  
-- **ML/AI Tools:** Pandas, Scikit-learn, TensorFlow, PyTorch, Keras  
-- **Frameworks & Tech:** Apache Spark, Hadoop, Airflow  
-- **Databases:** MySQL, MongoDB
+---
 
-<a href="https://github.com/abhishek-sriram"><img src="https://github-readme-stats.vercel.app/api?username=abhishek-sriram&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a><a href="https://github.com/abhishek-sriram"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sriram&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/abhishek-sriram">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhishek-sriram&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false" />
+  </a>
+  <a href="https://github.com/abhishek-sriram">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sriram&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image" />
