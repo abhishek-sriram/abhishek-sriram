@@ -17,7 +17,7 @@
 Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>, a passionate Data Scientist and Machine Learning Engineer pursuing my Master's in Data Science at SRM Institute of Science and Technology. With experience in building AI-powered applications, I have a strong foundation in machine learning, data analytics, and Python programming. I thrive on transforming data into actionable insights to drive impactful business decisions.
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhishek-sriram/abhishek-sriram/blob/main/code.gif" width="500" height="320" />
 
 - 🔭 **I’m currently working on:** *AI-based Real Estate Valuation Tools and EV Market Segmentation using Unsupervised ML.*
   
