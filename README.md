@@ -14,7 +14,7 @@
 </p>
 
 <p align="justify">
-Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>, a passionate Data Scientist and Machine Learning Engineer pursuing my Master's in Data Science at SRM Institute of Science and Technology. With experience in building AI-powered applications, I have a strong foundation in machine learning, data analytics, and Python programming. I thrive on transforming data into actionable insights to drive impactful business decisions.
+Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>, a passionate Data Scientist and Machine Learning Engineer pursuing my Master's in Data Science at SRM Institute of Science and Technology. I have a strong foundation in machine learning, data analytics, and Python programming. I thrive on transforming data into actionable insights to drive impactful business decisions.
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/abhishek-sriram/abhishek-sriram/blob/main/code.gif" width="500" height="320" />
