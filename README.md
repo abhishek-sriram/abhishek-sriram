@@ -68,6 +68,9 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 - **[SpaceX Falcon9 Landing Prediction](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction)**  
   Built machine learning models to predict Falcon 9 landing success rates with an accuracy of 91.11% using Python, Pandas, and the SpaceX API.
 
+- **[Sentiment Analysis - Movie Reviews](https://github.com/abhishek-sriram/Sentiment-Analysis-Movie-Reviews)**  
+Developed a sentiment analysis model to classify IMDB movie reviews as positive or negative using NLP and Naive Bayes classifiers.
+
 ---
 
 ### 📊 GitHub Stats
