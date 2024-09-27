@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-sriram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Abhishek+Sriram;A+Data+Scientist;An+ML+Engineer;An+AI+Researcher;A+Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Abhishek+Sriram;An+Aspiring+Data+Scientist;A+Lifelong+Learner)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:as4484@srmist.edu.in" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
