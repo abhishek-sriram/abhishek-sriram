@@ -19,13 +19,13 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 
 <img align="right" alt="GIF" src="https://github.com/abhishek-sriram/abhishek-sriram/blob/main/code.gif" width="500" height="320" />
 
-- 🔭 **I’m currently working on:** *AI-based Real Estate Valuation Tools and EV Market Segmentation using Unsupervised ML.*
+- 🔭 **I’m currently working on:** *Human Stress detection and prediction using ANN.*
   
 - 🌱 **I’m currently learning about:** *Advanced AI architectures, such as GNNs and Reinforcement Learning for multi-agent systems.*
 
 - 👯 **I’m looking to collaborate on:** *AI projects focusing on real-world problem solving and business applications.*
 
-- 🤝 **I’m open to:** *AI Research, Deep Learning, and Data Science opportunities in innovative environments.*
+- 🤝 **I’m open to:** *Data Science and AI opportunities in innovative environments.*
 
 - ⚡ **Fun fact:** *I'm a coffee ☕ lover!*
 
