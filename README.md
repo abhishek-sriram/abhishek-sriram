@@ -31,7 +31,7 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 
 ---
 
-### 🔧 Skills & Tools
+### 🔧 Skills 
 
 #### Programming Languages:
 <p align="left">
@@ -59,7 +59,7 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 
 ---
 
-### 🛠️ Notable Projects
+### 🛠️ Projects
 
 - **[Personalized Online Course Recommender System](https://github.com/abhishek-sriram/Personalized-Online-Course-Recommender-System)**  
   Developed a personalized recommendation engine using Python, Scikit-Learn, and Scikit-Surprise, increasing user engagement by 40%.
