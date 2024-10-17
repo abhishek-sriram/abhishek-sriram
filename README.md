@@ -4,8 +4,6 @@
 
 ### Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-sriram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Abhishek+Sriram;An+Aspiring+Data+Scientist;A+Lifelong+Learner)](https://git.io/typing-svg)
 
 <p align="center">
@@ -31,7 +29,7 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 
 ---
 
-### 🔧 Skills 
+### 🔧 Technical Skills 
 
 #### Programming Languages:
 <p align="left">
@@ -71,17 +69,6 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 Developed a sentiment analysis model to classify IMDB movie reviews as positive or negative using NLP and Naive Bayes classifiers.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/abhishek-sriram">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhishek-sriram&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false" />
-  </a>
-  <a href="https://github.com/abhishek-sriram">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sriram&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image" />
