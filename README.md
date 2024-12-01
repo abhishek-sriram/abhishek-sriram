@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:as4484@srmist.edu.in" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-sriram-050483250/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/abhishek-sriram-ds" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="justify">
