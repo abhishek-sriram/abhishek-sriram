@@ -17,11 +17,9 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 
 <img align="right" alt="GIF" src="https://github.com/abhishek-sriram/abhishek-sriram/blob/main/code.gif" width="500" height="320" />
 
-- 🔭 **I’m currently working on:** *Human Stress detection and prediction using ANN.*
-  
-- 🌱 **I’m currently learning about:** *Advanced AI architectures, such as GNNs and Reinforcement Learning for multi-agent systems.*
+- 🌱 **I’m currently learning about:** *Time Series Forecasting and Image Processing Techniques.*
 
-- 👯 **I’m looking to collaborate on:** *AI projects focusing on real-world problem solving and business applications.*
+- 👯 **I’m looking to collaborate on:** *DS and AI projects focusing on real-world problem solving and business applications.*
 
 - 🤝 **I’m open to:** *Data Science and AI opportunities in innovative environments.*
 
