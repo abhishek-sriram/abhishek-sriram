@@ -57,6 +57,9 @@ Hello 👋, I'm <a href="https://github.com/abhishek-sriram">Abhishek Sriram</a>
 
 ### 🛠️ Projects
 
+- **[Human Stress Detection and Prediction Using ANN](https://github.com/abhishek-sriram/Infosys-Springboard-Internship-5.0)**  
+  Developed an AI-driven stress prediction system using ANN to classify stress levels based on the physiological data.
+
 - **[Personalized Online Course Recommender System](https://github.com/abhishek-sriram/Personalized-Online-Course-Recommender-System)**  
   Developed a personalized recommendation engine using Python, Scikit-Learn, and Scikit-Surprise, increasing user engagement by 40%.
 
